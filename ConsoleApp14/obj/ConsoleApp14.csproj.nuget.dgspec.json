@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeffrey\\source\\repos\\ConsoleApp14\\ConsoleApp14\\ConsoleApp14.csproj": {}
+    "C:\\Users\\Jeffrey\\Downloads\\logicTest\\ConsoleApp14\\ConsoleApp14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeffrey\\source\\repos\\ConsoleApp14\\ConsoleApp14\\ConsoleApp14.csproj": {
+    "C:\\Users\\Jeffrey\\Downloads\\logicTest\\ConsoleApp14\\ConsoleApp14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeffrey\\source\\repos\\ConsoleApp14\\ConsoleApp14\\ConsoleApp14.csproj",
+        "projectUniqueName": "C:\\Users\\Jeffrey\\Downloads\\logicTest\\ConsoleApp14\\ConsoleApp14.csproj",
         "projectName": "ConsoleApp14",
-        "projectPath": "C:\\Users\\Jeffrey\\source\\repos\\ConsoleApp14\\ConsoleApp14\\ConsoleApp14.csproj",
+        "projectPath": "C:\\Users\\Jeffrey\\Downloads\\logicTest\\ConsoleApp14\\ConsoleApp14.csproj",
         "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeffrey\\source\\repos\\ConsoleApp14\\ConsoleApp14\\obj\\",
+        "outputPath": "C:\\Users\\Jeffrey\\Downloads\\logicTest\\ConsoleApp14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,9 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
